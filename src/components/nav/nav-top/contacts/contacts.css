@@ -1,0 +1,18 @@
+.contacts {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 12px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+.contacts-item {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 30px;
+}
+.contacts-icon {
+    margin-right: 8px;
+}

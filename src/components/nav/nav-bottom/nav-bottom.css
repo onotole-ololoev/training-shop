@@ -1,0 +1,5 @@
+.nav-bottom {
+    padding: 15px 85px;
+    display: flex;
+    justify-content: space-between;
+}
