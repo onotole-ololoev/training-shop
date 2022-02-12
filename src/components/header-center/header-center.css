@@ -1,0 +1,108 @@
+.header-center {
+    padding: 31px 85px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.header-main {
+    width: 540px;
+    height: 490px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: url('/src/images/header-main.png');
+}
+.left-arrow {
+    width: 40px;
+    height: 40px;
+    background: #FFFFFF;
+    opacity: 0.6;
+    border-radius: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.right-arrow {
+    width: 40px;
+    height: 40px;
+    background: #FFFFFF;
+    opacity: 0.6;
+    border-radius: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.header-title {
+    width: 289px;
+    height: 100px;
+    padding-top: 24px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.header-title_top {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 13px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #121212;
+    opacity: 0.4;
+    margin-bottom: 14px;
+}
+.header-title_bottom {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #121212;
+}
+.header-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.header-human {
+    display: flex;
+    justify-content: space-between;
+}
+.header-women {
+    width: 255px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: url('/src/images/header-women.png');
+}
+.header-men {
+    width: 255px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: url('/src/images/header-men.png');
+}
+.header-accessories {
+    width: 540px;
+    height: 260px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: url('/src/images/header-access.png');
+}
+.header-text {
+    padding: 13px 24px;
+    width: max-content;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #121212;
+    background: #FFFFFF;
+    border-radius: 4px;
+    text-align: center;
+}

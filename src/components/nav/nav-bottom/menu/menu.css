@@ -1,0 +1,15 @@
+.menu {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+}
+.menu-list {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+    display: flex;
+}
+.menu-item {
+    margin-left: 16px;
+    margin-right: 16px;
+}

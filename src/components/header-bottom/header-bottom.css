@@ -1,0 +1,31 @@
+.header-bottom {
+    padding-left: 85px;
+    padding-right: 85px;
+    padding-top: 32px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 2px #F8F8F8;
+}
+.header-bottom_item {
+    display: flex;
+    align-items: center;
+}
+.header-bottom_icon {
+    margin-right: 8px;
+}
+.header-bottom_title {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 13px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #121212;
+}
+.header-bottom_text {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 22px;
+    color: #121212;
+    opacity: 0.9;
+}
