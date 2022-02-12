@@ -1,0 +1,33 @@
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.main-nav_title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+.main-nav_list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+
+}
+.main-nav_list__item {
+    padding-left: 32px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 13px;
+    letter-spacing: 0.06em;
+    color: #121212;
+    opacity: 0.6;
+}
+.nav-active {
+    opacity: 1;
+}

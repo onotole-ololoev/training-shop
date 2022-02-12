@@ -1,7 +1,5 @@
 .header-bottom {
-    padding-left: 85px;
-    padding-right: 85px;
-    padding-top: 32px;
+    padding: 32px 85px;
     display: flex;
     justify-content: space-between;
     border-bottom: solid 2px #F8F8F8;
