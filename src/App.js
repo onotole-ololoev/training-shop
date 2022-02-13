@@ -1,6 +1,8 @@
 import './App.css';
+import Adv from './components/adv';
 import Header from './components/header';
 import Main from './components/main';
+import Subscribe from './components/subscribe';
 
 function App() {
   return (
@@ -8,6 +10,8 @@ function App() {
        <Header />
        <Main />
        <Main />
+       <Adv />
+       <Subscribe />
     </div>
   );
 }
